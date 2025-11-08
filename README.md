@@ -6,7 +6,7 @@ A modern, feature-rich anime search application built with React, TypeScript, Re
 
 ## 🌟 Live Demo
 
-**[View Live Demo →](https://your-app-name.vercel.app)**
+**[View Live Demo →](https://anime-search-app-one.vercel.app/)**
 
 ## ✨ Features
 
